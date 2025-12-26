@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ysh0910
+# Hi 👋, I'm Yashwanth G
 
 ### Software Developer | Turning ideas into practical solutions
 
