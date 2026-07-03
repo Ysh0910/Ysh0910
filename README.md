@@ -28,20 +28,14 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,docker,express,firebase,html,java,js,mongodb,mysql,nodejs,postgres,postman,py,react,tailwind" />
-</p>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,docker,express,firebase,html,java,js,mongodb,mysql,nodejs,postgres,postman,py,react,tailwind,jupyter,numpy,pandas,scikitlearn" />
 </p>
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ysh0910&show_icons=true&locale=en" alt="Ysh0910 Stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Ysh0910&show_icons=true&locale=en" alt="Ysh0910 Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ysh0910&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Ysh0910&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ysh0910" alt="Ysh0910 Streak" />
 </p>
